@@ -1,0 +1,28 @@
+body{
+background:#f5f7fa;
+font-family:Arial;
+}
+
+.container{
+width:600px;
+margin:auto;
+margin-top:50px;
+background:white;
+padding:30px;
+border-radius:10px;
+box-shadow:0 0 20px rgba(0,0,0,.2);
+}
+
+input,select{
+width:100%;
+padding:12px;
+margin:10px 0;
+}
+
+button{
+width:100%;
+padding:12px;
+background:#007bff;
+color:white;
+border:none;
+}
