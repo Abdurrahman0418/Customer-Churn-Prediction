@@ -129,6 +129,3 @@ Evaluation artifacts are generated during training and saved as images:
 ## License
 
 This project is available for personal and educational use. Add a license of your choice if distributing publicly.
-## License
-
-This project is available for personal and educational use. Add a license of your choice if distributing publicly.
